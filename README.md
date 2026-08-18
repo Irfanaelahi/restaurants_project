@@ -75,17 +75,19 @@ http://localhost:8080/restaurants_project/
 ### 🏠 Home Page
 ![Home Page](imagefolder/home.png.png)
 
-### 🍔 Menu
-![Menu](screenshots/menu.png)
+### 🍔 Contact
+![Contact](imagefolder/contact.png.png)
+![Contact](imagefolder/contact1.png.png)
+
 
 ### 📝 Registration
-![Registration](imagefolder/register.png)
+![Registration](imagefolder/register.png.png)
 
 ### ℹ️ About
-![About](screenshots/about.png)
+![About](imagefolder/about.png.png)
 
 ### 🛎️ Services
-![Services](screenshots/services.png)
+![Services](imagefolder/services.png.png)
 
 🎯 Project Objective
 
