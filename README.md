@@ -70,15 +70,22 @@ http://localhost:8080/restaurants_project/
 
 📸 Screenshots
 
-Add screenshots of:
+## 📸 Screenshots
 
-- Home page
-- Food/menu page
-- Registration page
-- About page
-- Services page
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
 
-«Screenshots can be added to this README after uploading them to the repository.»
+### 🍔 Menu
+![Menu](screenshots/menu.png)
+
+### 📝 Registration
+![Registration](screenshots/register.png)
+
+### ℹ️ About
+![About](screenshots/about.png)
+
+### 🛎️ Services
+![Services](screenshots/services.png)
 
 🎯 Project Objective
 
