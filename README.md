@@ -73,7 +73,7 @@ http://localhost:8080/restaurants_project/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshoots img/home.png)
 
 ### 🍔 Menu
 ![Menu](screenshots/menu.png)
