@@ -2,9 +2,9 @@
 
 $host = "localhost";
 $port = "5432";
-$dbname = "hotel";
-$user = "postgres";
-$password = "root";
+$dbname = "restaurants_db";
+$user = "user_name";
+$password = "password";
 
 // PostgreSQL connection
 $conn = pg_connect("host=$host port=$port dbname=$dbname user=$user password=$password");
