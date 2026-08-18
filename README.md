@@ -79,7 +79,7 @@ http://localhost:8080/restaurants_project/
 ![Menu](screenshots/menu.png)
 
 ### 📝 Registration
-![Registration](screenshots/register.png)
+![Registration](imagefolder/register.png)
 
 ### ℹ️ About
 ![About](screenshots/about.png)
